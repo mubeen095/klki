@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--Bootstrap Css-->
+        <link rel="stylesheet" href="public/assets/css/bootstrap.min.css">
+        <!--Meanmenu Css-->
+        <link rel="stylesheet" href="public/assets/css/meanmenu.css">
+        <!--Owl carousel-->
+        <link rel="stylesheet" href="public/assets/css/owl.carousel.min.css">
+        <!--Owl Theme-->
+        <link rel="stylesheet" href="public/assets/css/owl.theme.default.min.css">
+        <!--Magnific-popup-->
+        <link rel="stylesheet" href="public/assets/css/magnific-popup.css">
+        <!--Flaticon-->
+        <link rel="stylesheet" href="public/assets/css/flaticon.css">
+        <!--Remixicon-->
+        <link rel="stylesheet" href="public/assets/css/remixicon.css">
+        <!--Odometer-->
+        <link rel="stylesheet" href="public/assets/css/odometer.min.css">
+        <!--Aos css-->
+        <link rel="stylesheet" href="public/assets/css/aos.css">
+        <!--Style css-->
+        <link rel="stylesheet" href="public/assets/css/style.css">
+        <!--Dark css-->
+        <link rel="stylesheet" href="public/assets/css/dark.css">
+        <!--Responsive css-->
+        <link rel="stylesheet" href="public/assets/css/responsive.css">
+        <title>Top Staffing Company in Navi Mumbai | Staffing Agency in Navi Mumbai</title>
+        <meta name="description" content="Top Staffing Company in Navi Mumbai - Kutumbh HRCare provides Staffing services in Navi Mumbai including bulk hiring services in Navi Mumbai, contract staffing services in Navi Mumbai, payroll management and more."/>
+        <link rel="canonical" href="staffing-company-navi-mumbai" />
+        <link rel="icon" type="image/png" href="public/assets/images/favicon.png">				<!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-FZPXSXB5TF"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-FZPXSXB5TF');</script>
+    <style>
+        .mobileView {
+            display: none;
+        }
+
+        @media (max-width:992px) {
+            .mobileView {
+                display: block;
+            }
+        }
+    </style>
+	</head>
+    <body>
+
+        
+
+        <!--Mouce Cursor-->
+          <!-- <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner"><span>Drag</span></div> -->
+        <!--Mouce Cursor-->
+
+        
+
+        <!-- Start Navbar Area --> 
+        <div class="navbar-area ">
+            <div class="mobile-responsive-nav">
+                <div class="container">
+                    <div class="mobile-responsive-menu">
+                        <div class="logo">
+                            <a href="index.html">
+                                <img src="public/assets/images/white-logo.png" class="logo-icon-1" alt="logo">
+                                <img src="public/assets/images/white-logo.png" class="logo-icon-2" alt="logo">
+                                <img src="public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                                <img src="public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="desktop-nav">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                            <img src="public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav m-auto">
+                                <li class="nav-item">
+                                    <a href="index.html" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="about" class="nav-link">About Us</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="staffing-company-navi-mumbai#" class="nav-link dropdown-toggle">
+                                        Services            
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+									<li class="nav-item">
+                                            <a href="volume-hiring" class="nav-link">Volume Hiring</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="contract-staffing" class="nav-link">Contract Staffing</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="executive-search" class="nav-link">Executive Search</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="onboarding" class="nav-link">Onboarding</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="employee-training" class="nav-link">Employee Training</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="hr-consulting" class="nav-link">HR Consulting</a>
+                                        </li>
+                                        <!-- <li class="nav-item">
+                                            <a href="https://www.kutumbhhrcare.com/job-assessment" class="nav-link">Job Assessment</a>
+                                        </li>  -->   
+                                        <li class="nav-item">
+                                            <a href="outsourcing" class="nav-link">HR Outsourcing</a>
+                                        </li>                
+                                    </ul>
+                                </li>
+
+
+                                
+
+                                
+<li class="nav-item">                                    <a href="http://182.18.144.207/payroll/frmCLogin.aspx" class="nav-link">Jobs Login</a>   </li>
+                                <li class="nav-item">
+                                    <a href="staffing-company-navi-mumbai#" class="nav-link dropdown-toggle">
+                                        Login  
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/AdLogin.aspx?Id=" class="nav-link" target="_blank">Emp Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/Payroll/login.aspx" class="nav-link" target="_blank">Client Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/payroll/Emplogin.aspx?Id=" class="nav-link" target="_blank">Associate Login</a>
+                                        </li>     
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/PMS/login.aspx" class="nav-link" target="_blank">Partner Login</a>
+                                        </li>  
+										
+                                        <!-- <li class="nav-item">
+                                            <a href="https://hr.kutumbhhrcare.com/OnlineTest/Applicantlogin.aspx" class="nav-link" target="_blank">Self Assessment</a>
+                                        </li> -->
+										
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/frmCLogin.aspx" class="nav-link" target="_blank">Core Candidate Login</a>
+                                        </li>             
+                                    </ul>
+                                </li>
+								<li class="nav-item mobileView">
+                                <a href="contact-us" style="display: flex;align-items:center;justify-content:first baseline">  Apply Job</a>
+
+                                </a>
+
+                            </li>
+
+                        <li class="nav-item mobileView">
+                            <a href="contact-us" class="nav-link ">Contact Us <i
+                                    class="ri-arrow-right-line"></i></a>
+                            </a>
+                        </li>
+                            </ul>
+
+                            <div class="others-options style2 ms-auto">
+                                <div class="option-item">
+                                    <a href="contact-us" class="default-btn btn ">Apply Job <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                <div class="option-item">
+                                    <a href="contact-us" class="default-btn btn ">Contact Us <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+         
+        </div>
+        <!-- End Navbar Area -->
+<!--Start Page Header Area-->
+<div class="page-header-area bg-f4fbf6">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-6">
+                <div class="page-header-content">
+                    <h1>Staffing Company in Navi Mumbai</h1>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li>Navi Mumbai</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="page-header-image">
+                    <img src="public/assets/images/banner/banner-img-3.png" alt="HR Consulting">
+                </div>
+            </div>
+        </div>
+
+        <div class="page-header-shape">
+            <img src="public/assets/images/shape/shape-8.png" alt="Image">
+            <img src="public/assets/images/shape/shape-9.png" alt="Image">
+            <img src="public/assets/images/shape/shape-10.png" alt="Image">
+        </div>
+    </div>
+</div>
+<!--End Page Header Area-->
+
+<!--Start What We Do Area-->
+<div class="what-we-do-area p-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="what-we-do-image pr-20">
+                    <img src="public/assets/images/about/hr-consulting.jpg" alt="HR Consulting">
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="what-we-do-content">
+                    <div class="what-we-do-title">
+                        <span>Kutumbh HRCare</span>
+                        <h2>Top Staffing Company in Navi Mumbai</h2>
+                        <p>
+                            Navi Mumbai, the planned city, is the economic hub and home to various industries including pharmaceuticals, food products, clothes manufacturing and many more. These business units in Navi Mumbai always raise demands to hire talented candidates to achieve success and stand amid competition.  </p>
+							<p>For that, they search for the <b>best staffing agency in Navi Mumbai</b> to get the best candidate as per their requirements. </p>
+							<p>Kutumbh HRCare (Kaam matlab Kutumbh) - a leading <b>staffing company in Navi Mumbai</b> - helps many businesses by providing suitable candidates. The experts from the staffing company have expertise in finding suitable candidates on time. They use the latest tools and technologies to ensure the same for their client organisations. </p>
+							
+							<a href="contact-us" class="default-btn btn">Enquire Now <i
+                                        class="ri-arrow-right-line"></i></a>
+                    </div>
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End What We Do Area-->
+
+<!--Start Counter Area-->
+<div class="counter-area">
+    <div class="container-fluid">
+        <div class="counter-overly bg-fafafa py-4">
+            <div class="row">
+                <div class="com-md-12">
+                    <h2>Why Trust Kutumbh HRCare for Staffing Services in Navi Mumbai?</h2>
+                    <p>
+                        Many companies in Navi Mumbai take help from our trustworthy staffing company to recruit employees. Kutumbh HRCare is honoured to be the <b>best staffing agency in Navi Mumbai</b> by fulfilling the hiring needs of its clients. It conducts meetings with clients to understand their goals and find manpower accordingly and on time.  
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Counter Area-->
+
+<!--Start Choose Area-->
+<div class="choose-area ptb-30">
+    <div class="container">
+        <div class="section-title">
+            <span>Staffing Services in Navi Mumbai
+            </span>
+            <h2>Kutumbh HRCare’s Staffing Services in Navi Mumbai </h2>
+            <p>There are several HR processes companies need to implement to hire a talented workforce. Many companies in Navi Mumbai take help from our staffing company as it successfully manages all HR processes. Different services provided by our staffing company are- </p>
+        </div>
+
+        <div class="tab-teaser">
+            <div class="tab-menu">
+                <ul>
+                    <li><a href="staffing-company-navi-mumbai#" class="active" data-rel="tab-1">Volume Hiring
+                        </a></li>
+                    <li><a href="staffing-company-navi-mumbai#" data-rel="tab-2" class="">
+                            Contract Staffing
+                        </a></li>
+                    <li><a href="staffing-company-navi-mumbai#" data-rel="tab-3" class="">
+                            Executive Search Services
+
+                        </a></li>
+						<li><a href="staffing-company-navi-mumbai#" data-rel="tab-4" class="">
+                            Onboarding 
+
+                        </a></li>
+						
+						<br><br>
+						<li><a href="staffing-company-navi-mumbai#" data-rel="tab-5" class="">
+                            Employee Training
+
+                        </a></li>
+						<li><a href="staffing-company-navi-mumbai#" data-rel="tab-6" class="">
+                            HR Consulting 
+
+                        </a></li>
+						<li><a href="staffing-company-navi-mumbai#" data-rel="tab-7" class="">
+                            Payroll & Legal Compliance
+
+                        </a></li>
+                </ul>
+            </div>
+            <div class="tab-box" id="tab-1" style="display:block;">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        <div class="col-lg-12">
+                            <div class="choose-content pr-15">
+                                <div class="choose-title">
+                                    <h2>Volume Hiring</h2>
+                                    <p>
+
+                                       Recruiting the workforce in volume whether on a temporary or permanent basis needs strategies and consistency. Our staffing company helps many organisations by providing the <b>best staffing services in Navi Mumbai</b>. It improves productivity and gives flexibility to businesses by handling their volume hiring process.  
+
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="tab-box" id="tab-2">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                       
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>Contract Staffing </h2>
+                                    <p>Kutumbh HRCare is the <b>best contract staffing agency in Navi Mumbai</b>. It provides candidates on a contract basis to many organisations in Navi Mumbai and helps them focus on their core business effectively. </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-box" id="tab-3">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        <div class="col-lg-12">
+                            <div class="choose-content pr-15">
+                                <div class="choose-title">
+                                    <h2>Executive Search Services</h2>
+                                    <p>
+                                       Headhunting demands standard services and professional communication skills to recruit candidates. Our staffing company helps many businesses in Navi Mumbai by recruiting senior-level candidates as per their demands. The staffing company provides the best solutions for organisations using their talent pool.   
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="tab-box" id="tab-4">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>Onboarding</h2>
+                                    <p>The renowned staffing firm carries out an effective onboarding program for many businesses in Navi Mumbai. It makes new joiners comfortable in the working environment and shares insights into what the job role entails. To avoid potential risks, our staffing company also conducts background verification for many businesses. </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			 <div class="tab-box" id="tab-5">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>Employee Training</h2>
+                                    <p>Organisations give training to their employees to make them understand their job role and improve productivity. But it takes time. Also, managing training and core business simultaneously can be a tough task for many businesses. Our staffing company can be reliable for many firms in Navi Mumbai. As it gives behaviour and functional training to their employees.  </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			 <div class="tab-box" id="tab-6">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>HR Consulting </h2>
+                                    <p>HR consulting helps organisations make plans and reach heights amid competitors. The staffing company provides the best HR consulting services to many firms in Navi Mumbai. The top-notch experts from staffing companies arrange the workforce as well as manage the performance of employees.  </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			 <div class="tab-box" id="tab-7">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>Payroll & Legal Compliance</h2>
+                                    <p>All companies want to stay away from any payroll and legal compliance. Now, many companies in Navi Mumbai have Kutumbh HRVCare as a trustworthy staffing partner to handle their payroll and legal compliances. </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--End Choose Area-->
+
+<!--Start Watch Video Area-->
+<div class="watch-video-area pt-5 pb-5">
+    <div class="container">
+        <div class="video-img">
+            <img src="public/assets/images/video-img/video-img-1.jpg" alt="Watch Corporate Video">
+            <div class="video-content">
+                <h3>Watch Video</h3>
+                <div class="play-btn">
+                    <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=EGZ-SxZ8Y5E">
+                        <img src="public/assets/images/icon/icon-1.png" alt="Watch Corporate Video">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Watch Video Area-->
+
+
+<!--Start Footer Area-->
+ <div class="start-footer-area pt-100 pb-70">
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-logo-area">
+                     <a href="index.html"><img src="public/assets/images/white-kc-logo.png"
+                             alt="Logo"></a>
+                     <p>Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.</p>
+                     <div class="social-content">
+                         <ul>
+                             <li>
+                                 <span>Follow Us</span>
+                             </li>
+                             <li>
+                                 <a href="https://www.facebook.com/kutumbhhrcareofficial/" target="_blank"><i class="ri-facebook-line"></i></a>
+                             </li>							 
+                             <li>
+                                 <a href="https://www.linkedin.com/company/kutumbh-hrcare-private-limited/" target="_blank"><i
+                                         class="ri-linkedin-line"></i></a>
+                             </li>							 							  <li>                                 <a href="https://twitter.com/Kutumbhhrcare_" target="_blank"><i                                         class="ri-twitter-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.youtube.com/@kutumbhhrcare1265/videos" target="_blank"><i                                         class="ri-youtube-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.instagram.com/kutumbhhrcare_/" target="_blank"><i                                         class="ri-instagram-line"></i></a>                             </li>
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Useful Links</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="about">About Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="contact-us">Contact Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="https://www.kutumbhhrcare.com/blog">News & Blog</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="awards-and-recognition">Awards & Recognition</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="blog-category/events">Events</a>
+                             </li>
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+			  <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Our Presence</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-delhi">Delhi</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-noida">Noida</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-bangalore">Bangalore</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-chennai">Chennai</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-mumbai">Mumbai</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-hyderabad">Hyderabad</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="locations">View More..</a>
+                             </li> 
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-address-area">
+                     <h3>Address Information</h3>
+                     <ul>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-phone-call-1"></i>
+                             </div>
+                             <p>Call Us Now</p>
+                             <a href="tel:+919958148484">+919958148484</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-mail"></i>
+                             </div>
+                             <p>Email Address</p>
+                             <a href="mailto:info@kutumbhhrcare.com">info@kutumbhhrcare.com</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-place"></i>
+                             </div>
+                             <p>Head Office</p>
+                             <span>B-154, B Block, Sector 63, Noida,<br> Uttar Pradesh-201301 </span>
+                         </li>
+                     </ul>
+                 </div>
+             </div>
+
+
+         </div>
+     </div>
+ </div>
+ <!--End Footer Area-->
+
+ <!--Start Copy Right Area-->
+ <div class="copy-right-area">
+     <div class="container">
+         <p>2024 &copy; All Rights Reserved by Kutumbh HRCare Private Limited
+            <br>
+            CIN: U74900DL2018PTC334097
+         </p>
+     </div>
+ </div>
+ <!--End Copy Right Area-->
+
+ <!-- Start Go Top Area -->
+ <div class="go-top">
+     <i class="ri-rocket-line"></i>
+     <i class="ri-rocket-line"></i>
+ </div>
+ <!-- End Go Top Area -->
+
+
+ <!-- Jquery js -->
+ <script data-cfasync="false" src="https://www.kutumbhhrcare.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+ <script src="public/assets/js/jquery.min.js"></script>
+ <!-- Bootstrap bundle js -->
+ <script src="public/assets/js/bootstrap.bundle.min.js"></script>
+ <!-- Meanmenu js -->
+ <script src="public/assets/js/jquery.meanmenu.js"></script>
+ <!-- Owl Carosel js -->
+ <script src="public/assets/js/owl.carousel.min.js"></script>
+ <!-- Magnific popup js -->
+ <script src="public/assets/js/jquery.magnific-popup.js"></script>
+ <!-- Aos js -->
+ <script src="public/assets/js/aos.js"></script>
+ <!-- Mixitup js -->
+ <script src="public/assets/js/mixitup.min.js"></script>
+ <!-- Odometer js -->
+ <script src="public/assets/js/odometer.min.js"></script>
+ <!-- Appear js -->
+ <script src="public/assets/js/appear.min.js"></script>
+ <!-- Form Validator js -->
+ <script src="public/assets/js/form-validator.min.js"></script>
+ <!-- Contact Form Script js -->
+ <script src="public/assets/js/contact-form-script.js"></script>
+ <!-- Ajaxchimp js -->
+ <script src="public/assets/js/ajaxchimp.min.js"></script>
+ <!--Custom js-->
+ <script src="public/assets/js/custom.js"></script>
+ 
+ <script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "LocalBusiness",
+"image": [
+    "https://www.kutumbhhrcare.com/public/assets/images/white-logo.png"],
+    
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Noida",
+"addressRegion": "India",
+"postalCode":"201301",
+"streetAddress": "Kutumbh Care Pvt Ltd, B154, B Block, Sector - 63"
+},
+"description": "Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.",
+"name": "Kutumbh HRCare",
+"telephone": "+919958148484",
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "28.6149744",
+"longitude": "77.3764202"
+},
+"sameAs" : [ "https://www.facebook.com/kutumbhhrcareofficial/",
+"https://www.linkedin.com/company/kutumbh-hrcare-private-limited/",
+"https://twitter.com/Kutumbhhrcare_",
+"https://www.youtube.com/@kutumbhhrcare1265/videos",
+"https://www.instagram.com/kutumbhhrcare_/"]
+}
+</script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "7222665";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=7222665&fmt=gif" />
+</noscript>
+ 
+ </body>
+ </html>

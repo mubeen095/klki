@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--Bootstrap Css-->
+        <link rel="stylesheet" href="../public/assets/css/bootstrap.min.css">
+        <!--Meanmenu Css-->
+        <link rel="stylesheet" href="../public/assets/css/meanmenu.css">
+        <!--Owl carousel-->
+        <link rel="stylesheet" href="../public/assets/css/owl.carousel.min.css">
+        <!--Owl Theme-->
+        <link rel="stylesheet" href="../public/assets/css/owl.theme.default.min.css">
+        <!--Magnific-popup-->
+        <link rel="stylesheet" href="../public/assets/css/magnific-popup.css">
+        <!--Flaticon-->
+        <link rel="stylesheet" href="../public/assets/css/flaticon.css">
+        <!--Remixicon-->
+        <link rel="stylesheet" href="../public/assets/css/remixicon.css">
+        <!--Odometer-->
+        <link rel="stylesheet" href="../public/assets/css/odometer.min.css">
+        <!--Aos css-->
+        <link rel="stylesheet" href="../public/assets/css/aos.css">
+        <!--Style css-->
+        <link rel="stylesheet" href="../public/assets/css/style.css">
+        <!--Dark css-->
+        <link rel="stylesheet" href="../public/assets/css/dark.css">
+        <!--Responsive css-->
+        <link rel="stylesheet" href="../public/assets/css/responsive.css">
+        <title>Check Out These Tips to Boost Employee Morale</title>
+        <meta name="description" content="Employee morale is a crucial component to take into account if you want to make your organisation successful and maintain a high-performance culture."/>
+        <link rel="canonical" href="check-out-these-tips-to-boost-employee-morale" />
+        <link rel="icon" type="image/png" href="../public/assets/images/favicon.png">				<!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-FZPXSXB5TF"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-FZPXSXB5TF');</script>
+    <style>
+        .mobileView {
+            display: none;
+        }
+
+        @media (max-width:992px) {
+            .mobileView {
+                display: block;
+            }
+        }
+    </style>
+	</head>
+    <body>
+
+        
+
+        <!--Mouce Cursor-->
+          <!-- <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner"><span>Drag</span></div> -->
+        <!--Mouce Cursor-->
+
+        
+
+        <!-- Start Navbar Area --> 
+        <div class="navbar-area ">
+            <div class="mobile-responsive-nav">
+                <div class="container">
+                    <div class="mobile-responsive-menu">
+                        <div class="logo">
+                            <a href="../index.html">
+                                <img src="../public/assets/images/white-logo.png" class="logo-icon-1" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="logo-icon-2" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="desktop-nav">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="../index.html">
+                            <img src="../public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                            <img src="../public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav m-auto">
+                                <li class="nav-item">
+                                    <a href="../index.html" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="../about" class="nav-link">About Us</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="check-out-these-tips-to-boost-employee-morale#" class="nav-link dropdown-toggle">
+                                        Services            
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+									<li class="nav-item">
+                                            <a href="../volume-hiring" class="nav-link">Volume Hiring</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../contract-staffing" class="nav-link">Contract Staffing</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../executive-search" class="nav-link">Executive Search</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../onboarding" class="nav-link">Onboarding</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../employee-training" class="nav-link">Employee Training</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../hr-consulting" class="nav-link">HR Consulting</a>
+                                        </li>
+                                        <!-- <li class="nav-item">
+                                            <a href="https://www.kutumbhhrcare.com/job-assessment" class="nav-link">Job Assessment</a>
+                                        </li>  -->   
+                                        <li class="nav-item">
+                                            <a href="../outsourcing" class="nav-link">HR Outsourcing</a>
+                                        </li>                
+                                    </ul>
+                                </li>
+
+
+                                
+
+                                
+<li class="nav-item">                                    <a href="http://182.18.144.207/payroll/frmCLogin.aspx" class="nav-link">Jobs Login</a>   </li>
+                                <li class="nav-item">
+                                    <a href="check-out-these-tips-to-boost-employee-morale#" class="nav-link dropdown-toggle">
+                                        Login  
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/AdLogin.aspx?Id=" class="nav-link" target="_blank">Emp Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/Payroll/login.aspx" class="nav-link" target="_blank">Client Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/payroll/Emplogin.aspx?Id=" class="nav-link" target="_blank">Associate Login</a>
+                                        </li>     
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/PMS/login.aspx" class="nav-link" target="_blank">Partner Login</a>
+                                        </li>  
+										
+                                        <!-- <li class="nav-item">
+                                            <a href="https://hr.kutumbhhrcare.com/OnlineTest/Applicantlogin.aspx" class="nav-link" target="_blank">Self Assessment</a>
+                                        </li> -->
+										
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/frmCLogin.aspx" class="nav-link" target="_blank">Core Candidate Login</a>
+                                        </li>             
+                                    </ul>
+                                </li>
+								<li class="nav-item mobileView">
+                                <a href="../contact-us" style="display: flex;align-items:center;justify-content:first baseline">  Apply Job</a>
+
+                                </a>
+
+                            </li>
+
+                        <li class="nav-item mobileView">
+                            <a href="../contact-us" class="nav-link ">Contact Us <i
+                                    class="ri-arrow-right-line"></i></a>
+                            </a>
+                        </li>
+                            </ul>
+
+                            <div class="others-options style2 ms-auto">
+                                <div class="option-item">
+                                    <a href="../contact-us" class="default-btn btn ">Apply Job <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                <div class="option-item">
+                                    <a href="../contact-us" class="default-btn btn ">Contact Us <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+         
+        </div>
+        <!-- End Navbar Area -->
+<!--Start Page Header Area-->
+<div class="page-header-area bg-f4fbf6">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-6">
+                <div class="page-header-content">
+                    <h1>Check Out These Tips to Boost Employee Morale</h1>
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="https://www.kutumbhhrcare.com/blog">Blog</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="page-header-image">
+                    <img src="../public/assets/images/banner/banner-img-3.png" alt="Image">
+                </div>
+            </div>
+        </div>
+
+        <div class="page-header-shape">
+            <img src="../public/assets/images/shape/shape-8.png" alt="Image">
+            <img src="../public/assets/images/shape/shape-9.png" alt="Image">
+            <img src="../public/assets/images/shape/shape-10.png" alt="Image">
+        </div>
+    </div>
+</div>
+<!--End Page Header Area-->
+
+<!--Start Blog Details Area-->
+<div class="blog-details-area pt-100 pb-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="blog-details">
+                    <div class="top-img">
+                        <img src="../public/uploads/blog/1686905790.jpg" alt="Check Out These Tips to Boost Employee Morale">
+                    </div>
+                    <div class="blog-details-content">
+
+                        <h3>Check Out These Tips to Boost Employee Morale</h3>
+                        <p><p>Employee morale is a crucial component to take into account if you want to make your organisation successful and maintain a high-performance culture. A positive work environment can boost productivity, engagement, sustainability, and profitability.&nbsp; On the other hand, low employee morale can lead to poor work quality, which will further hamper organisational progress.&nbsp;</p>
+
+<p><strong>What is Employee Morale?</strong></p>
+
+<p>Employee morale refers to team members&#39; outlook, satisfaction, attitude, and confidence at work. It reveals the strength of how healthy the corporate culture is, how employees feel valued and engaged?</p>
+
+<p>Employers are significant contributors to employee morale even though they are unable to directly influence it.</p>
+
+<p>Team members are more likely to be intrinsically motivated and work at their best when they feel cared for and are supported by their managers.</p>
+
+<p>Employees can occasionally feel slightly unmotivated towards work for reasons unrelated to corporate culture, such as personal struggles or problems at home, but these are typically isolated events that don&#39;t represent company morale as a whole.</p>
+
+<p><strong>Importance of Employees with High Morale</strong></p>
+
+<p>The thing that holds a company together is morale. Teams are capable of achieving anything when employee morale is high. When employees get respect from their respective managers and have ample opportunities to advance their career, it increases the company&rsquo;s productivity. Therefore, organisations must focus on improving employee morale.</p>
+
+<h3><strong>Negative Effects of Employees with Low Morale</strong>&nbsp;</h3>
+
+<p><strong>Poor Communication</strong></p>
+
+<p>Having poor communication with your employees can cause misunderstandings, confusion, and feelings of loneliness in them. After all, without effective internal communication, it would be extremely difficult for your employees to comprehend what is required of them.</p>
+
+<p>Teams that work remotely in particular are prone to feeling disengaged, unaware of developments, and remain largely unheard.</p>
+
+<p><strong>Not Accepting Challenges</strong></p>
+
+<p>Low morale can make employees discard challenging work, which would not only hurt their personal growth but also that of the organisation. Solving critical problems of users is important for both employers and employees for their respective growth.</p>
+
+<p><strong>Internal Changes</strong></p>
+
+<p>Uncertainty and anxiety among the employees can be increased by changes like restructuring, leadership shifts, layoffs, or mergers. These events usually create job insecurity, mistrust, and bad morale. So, as an organisation, you need to make it clear that these changes won&rsquo;t hurt your employees.</p>
+
+<p><strong>Poor Leadership</strong></p>
+
+<p>Poor leadership frequently results in low employee morale, so those in leadership roles need to be aware of how their actions can impact employees. Micromanagement, a lack of feedback, inconsistent behaviour, or favouritism are just a few examples of poor leadership.&nbsp;</p>
+
+<p>Employees may lose interest, motivation, and connection when leaders are unable to successfully inspire, direct, and support their teams.</p>
+
+<h3><strong>Ways to Boost Employee Morale</strong></h3>
+
+<p><strong>Communicate </strong></p>
+
+<p>Communication can set a clear goal and empower people to complete their work without ambiguity which is essential for reducing time, errors and irritation. Regularly and openly talking with your employees can increase engagement and further demonstrate your care for them.</p>
+
+<p>Set up regular meetings with each employee to check in, communicate expectations, review progress, and address misunderstandings that may have developed. Share company updates, triumphs as well as problems to help your staff see the bigger picture.</p>
+
+<p><strong>Transparency</strong></p>
+
+<p>Be as transparent as possible. When morale is low, don&#39;t try to hide issues or avoid having dialogues, otherwise, you&#39;ll end up doing more harm. Your employees will value your sincerity as you collaborate with them to address any problems. Inform them of business developments, new operating procedures and client feedback.</p>
+
+<p><strong>Use the Right Tools</strong></p>
+
+<p>Employee morale can be significantly increased using the right digital tools. An employee management software enables your team with the resources they need to work more productively, which lowers irritation, makes them feel supported, and increases job satisfaction.</p>
+
+<p>Additionally, it offers a centralised platform for maintaining team engagement and connectivity from wherever they are working.</p>
+
+<p><strong>Appreciate </strong></p>
+
+<p>Everyone wants to feel appreciated, and this includes your employees too. Make sure to congratulate your employees on their achievement, no matter how big or small they have done. By doing this, you&#39;ll give them a sense of worth and visibility, boost their morale, and motivate them to continue their good work.</p>
+
+<p>By developing an employee recognition programme, you can make sure that your employees feel valued the whole year rather than just celebrating on Employee Appreciation Day.&nbsp;</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>If you can boost employee morale then it is the key to nurturing a happy and productive workforce and, ultimately, a successful business.</p>
+
+<p>Using the right tools and strategies, you will be able to create a workplace culture that promotes employee morale and motivates your team to perform at their best. If you want to take help from experts to motivate your employees, <strong><a href="../index.html">Kutumbh HRCare</a> (Kaam Matlab Kutumbh) is</strong> ready to do so.&nbsp;</p></p>
+<hr>
+                        <div class="related-post">
+                            <h3>Related Post</h3>
+                            <div class="row">
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="difference-between-hrms-and-hris"><img
+                                                        src="../public/uploads/blog/1685691257.jpg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="difference-between-hrms-and-hris">Difference Between HRMS and HRIS</a>
+                                                </h3>
+                                                <a href="difference-between-hrms-and-hris" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="key-points-to-consider-when-outsourcing-payroll-services"><img
+                                                        src="../public/uploads/blog/1686054402.jpg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="key-points-to-consider-when-outsourcing-payroll-services">Key Points to Consider When Outsourcing Payroll Services</a>
+                                                </h3>
+                                                <a href="key-points-to-consider-when-outsourcing-payroll-services" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="what-to-keep-in-mind-when-recruiting-top-executives"><img
+                                                        src="../public/uploads/blog/1686306367.jpeg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="what-to-keep-in-mind-when-recruiting-top-executives">What to Keep in Mind When Recruiting Top Executives?</a>
+                                                </h3>
+                                                <a href="what-to-keep-in-mind-when-recruiting-top-executives" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="7-key-factors-of-hr-management-that-benefit-businesses"><img
+                                                        src="../public/uploads/blog/1686634268.jpg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="7-key-factors-of-hr-management-that-benefit-businesses">7 Key Factors of HR Management That Benefit Businesses</a>
+                                                </h3>
+                                                <a href="7-key-factors-of-hr-management-that-benefit-businesses" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="check-out-these-tips-to-boost-employee-morale"><img
+                                                        src="../public/uploads/blog/1686905790.jpg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="check-out-these-tips-to-boost-employee-morale">Check Out These Tips to Boost Employee Morale</a>
+                                                </h3>
+                                                <a href="check-out-these-tips-to-boost-employee-morale" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="blog-details-sidebar">
+                    <div class="sidebar-widget">
+                        <h3>Search Here</h3>
+                        <div class="search-bar">
+                            <form action="https://www.kutumbhhrcare.com/search-blogs" method="POST">
+                                <div class="form-group">
+                                    <input type="hidden" name="_token" value="l5Ef9IPyPkI0a2hq1qQFY40PCjOlBDI8toQDiDgW">                                    <input type="text" class="form-control" placeholder="Find out now" name="search">
+                                    <button class="default-btn active" type="submit">
+                                        <i class="ri-file-search-line"></i>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="sidebar-widget">
+                        <h3>Category</h3>
+                        <div class="Category-list">
+                            <ul>
+                                                                    <li><a href="../blog-category/training"><i class="ri-arrow-right-s-line"></i> Training</a>
+                                    </li>
+                                                                    <li><a href="../blog-category/hr"><i class="ri-arrow-right-s-line"></i> HR</a>
+                                    </li>
+                                                                    <li><a href="../blog-category/events"><i class="ri-arrow-right-s-line"></i> Events</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="sidebar-widget widget-peru-posts-thumb">
+                        <h3>Recent Post</h3>
+                        <div class="post-wrap">
+                                                            <article class="item">
+                                    <a href="kutumbh-ke-sitaare-reward-recognition-program-for-june-2024" class="thumb">
+                                        <img src="../public/uploads/blog/1720528199.jpg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-09 12:29:59</time>
+                                        <h4 class="title usmall">
+                                            <a href="kutumbh-ke-sitaare-reward-recognition-program-for-june-2024">
+                                                Kutumbh Ke Sitaare Reward &amp; Recognition Program for June 2024
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                                                            <article class="item">
+                                    <a href="bulk-hiring-strategies-for-the-hospitality-industry" class="thumb">
+                                        <img src="../public/uploads/blog/1720611365.jpg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-10 11:36:05</time>
+                                        <h4 class="title usmall">
+                                            <a href="bulk-hiring-strategies-for-the-hospitality-industry">
+                                                Bulk Hiring Strategies for the Hospitality Industry
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                                                            <article class="item">
+                                    <a href="bulk-hiring-strategies-for-the-logistics-industry" class="thumb">
+                                        <img src="../public/uploads/blog/1720781492.jpg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-12 10:51:32</time>
+                                        <h4 class="title usmall">
+                                            <a href="bulk-hiring-strategies-for-the-logistics-industry">
+                                                Bulk Hiring Strategies for the Logistics Industry
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                                                            <article class="item">
+                                    <a href="future-hiring-trends-in-e-commerce-business" class="thumb">
+                                        <img src="../public/uploads/blog/1721216703.jpeg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-17 11:45:03</time>
+                                        <h4 class="title usmall">
+                                            <a href="future-hiring-trends-in-e-commerce-business">
+                                                Future Hiring Trends in E-commerce Business
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                                                            <article class="item">
+                                    <a href="bulk-hiring-for-different-roles-in-automobile-business" class="thumb">
+                                        <img src="../public/uploads/blog/1721736875.jpeg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-23 12:14:35</time>
+                                        <h4 class="title usmall">
+                                            <a href="bulk-hiring-for-different-roles-in-automobile-business">
+                                                Bulk Hiring for Different Roles in Automobile Business
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Blog Details Area-->
+
+<!--Start Footer Area-->
+ <div class="start-footer-area pt-100 pb-70">
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-logo-area">
+                     <a href="../index.html"><img src="../public/assets/images/white-kc-logo.png"
+                             alt="Logo"></a>
+                     <p>Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.</p>
+                     <div class="social-content">
+                         <ul>
+                             <li>
+                                 <span>Follow Us</span>
+                             </li>
+                             <li>
+                                 <a href="https://www.facebook.com/kutumbhhrcareofficial/" target="_blank"><i class="ri-facebook-line"></i></a>
+                             </li>							 
+                             <li>
+                                 <a href="https://www.linkedin.com/company/kutumbh-hrcare-private-limited/" target="_blank"><i
+                                         class="ri-linkedin-line"></i></a>
+                             </li>							 							  <li>                                 <a href="https://twitter.com/Kutumbhhrcare_" target="_blank"><i                                         class="ri-twitter-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.youtube.com/@kutumbhhrcare1265/videos" target="_blank"><i                                         class="ri-youtube-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.instagram.com/kutumbhhrcare_/" target="_blank"><i                                         class="ri-instagram-line"></i></a>                             </li>
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Useful Links</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../about">About Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../contact-us">Contact Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="https://www.kutumbhhrcare.com/blog">News & Blog</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../awards-and-recognition">Awards & Recognition</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../blog-category/events">Events</a>
+                             </li>
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+			  <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Our Presence</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-delhi">Delhi</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-noida">Noida</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-bangalore">Bangalore</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-chennai">Chennai</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-mumbai">Mumbai</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-hyderabad">Hyderabad</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../locations">View More..</a>
+                             </li> 
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-address-area">
+                     <h3>Address Information</h3>
+                     <ul>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-phone-call-1"></i>
+                             </div>
+                             <p>Call Us Now</p>
+                             <a href="tel:+919958148484">+919958148484</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-mail"></i>
+                             </div>
+                             <p>Email Address</p>
+                             <a href="mailto:info@kutumbhhrcare.com">info@kutumbhhrcare.com</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-place"></i>
+                             </div>
+                             <p>Head Office</p>
+                             <span>B-154, B Block, Sector 63, Noida,<br> Uttar Pradesh-201301 </span>
+                         </li>
+                     </ul>
+                 </div>
+             </div>
+
+
+         </div>
+     </div>
+ </div>
+ <!--End Footer Area-->
+
+ <!--Start Copy Right Area-->
+ <div class="copy-right-area">
+     <div class="container">
+         <p>2024 &copy; All Rights Reserved by Kutumbh HRCare Private Limited
+            <br>
+            CIN: U74900DL2018PTC334097
+         </p>
+     </div>
+ </div>
+ <!--End Copy Right Area-->
+
+ <!-- Start Go Top Area -->
+ <div class="go-top">
+     <i class="ri-rocket-line"></i>
+     <i class="ri-rocket-line"></i>
+ </div>
+ <!-- End Go Top Area -->
+
+
+ <!-- Jquery js -->
+ <script data-cfasync="false" src="https://www.kutumbhhrcare.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+ <script src="../public/assets/js/jquery.min.js"></script>
+ <!-- Bootstrap bundle js -->
+ <script src="../public/assets/js/bootstrap.bundle.min.js"></script>
+ <!-- Meanmenu js -->
+ <script src="../public/assets/js/jquery.meanmenu.js"></script>
+ <!-- Owl Carosel js -->
+ <script src="../public/assets/js/owl.carousel.min.js"></script>
+ <!-- Magnific popup js -->
+ <script src="../public/assets/js/jquery.magnific-popup.js"></script>
+ <!-- Aos js -->
+ <script src="../public/assets/js/aos.js"></script>
+ <!-- Mixitup js -->
+ <script src="../public/assets/js/mixitup.min.js"></script>
+ <!-- Odometer js -->
+ <script src="../public/assets/js/odometer.min.js"></script>
+ <!-- Appear js -->
+ <script src="../public/assets/js/appear.min.js"></script>
+ <!-- Form Validator js -->
+ <script src="../public/assets/js/form-validator.min.js"></script>
+ <!-- Contact Form Script js -->
+ <script src="../public/assets/js/contact-form-script.js"></script>
+ <!-- Ajaxchimp js -->
+ <script src="../public/assets/js/ajaxchimp.min.js"></script>
+ <!--Custom js-->
+ <script src="../public/assets/js/custom.js"></script>
+ 
+ <script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "LocalBusiness",
+"image": [
+    "https://www.kutumbhhrcare.com/public/assets/images/white-logo.png"],
+    
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Noida",
+"addressRegion": "India",
+"postalCode":"201301",
+"streetAddress": "Kutumbh Care Pvt Ltd, B154, B Block, Sector - 63"
+},
+"description": "Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.",
+"name": "Kutumbh HRCare",
+"telephone": "+919958148484",
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "28.6149744",
+"longitude": "77.3764202"
+},
+"sameAs" : [ "https://www.facebook.com/kutumbhhrcareofficial/",
+"https://www.linkedin.com/company/kutumbh-hrcare-private-limited/",
+"https://twitter.com/Kutumbhhrcare_",
+"https://www.youtube.com/@kutumbhhrcare1265/videos",
+"https://www.instagram.com/kutumbhhrcare_/"]
+}
+</script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "7222665";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=7222665&fmt=gif" />
+</noscript>
+ 
+ </body>
+ </html>

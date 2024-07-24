@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--Bootstrap Css-->
+        <link rel="stylesheet" href="../public/assets/css/bootstrap.min.css">
+        <!--Meanmenu Css-->
+        <link rel="stylesheet" href="../public/assets/css/meanmenu.css">
+        <!--Owl carousel-->
+        <link rel="stylesheet" href="../public/assets/css/owl.carousel.min.css">
+        <!--Owl Theme-->
+        <link rel="stylesheet" href="../public/assets/css/owl.theme.default.min.css">
+        <!--Magnific-popup-->
+        <link rel="stylesheet" href="../public/assets/css/magnific-popup.css">
+        <!--Flaticon-->
+        <link rel="stylesheet" href="../public/assets/css/flaticon.css">
+        <!--Remixicon-->
+        <link rel="stylesheet" href="../public/assets/css/remixicon.css">
+        <!--Odometer-->
+        <link rel="stylesheet" href="../public/assets/css/odometer.min.css">
+        <!--Aos css-->
+        <link rel="stylesheet" href="../public/assets/css/aos.css">
+        <!--Style css-->
+        <link rel="stylesheet" href="../public/assets/css/style.css">
+        <!--Dark css-->
+        <link rel="stylesheet" href="../public/assets/css/dark.css">
+        <!--Responsive css-->
+        <link rel="stylesheet" href="../public/assets/css/responsive.css">
+        <title>Why Should Businesses Hire an HR Consultant?</title>
+        <meta name="description" content="Human Resource Consultants help you hire the right people for the job. If you are unaware of the HR shared services and why to hire them then read this article and know their worth."/>
+        <link rel="canonical" href="why-should-businesses-hire-an-hr-consultant" />
+        <link rel="icon" type="image/png" href="../public/assets/images/favicon.png">				<!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-FZPXSXB5TF"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-FZPXSXB5TF');</script>
+    <style>
+        .mobileView {
+            display: none;
+        }
+
+        @media (max-width:992px) {
+            .mobileView {
+                display: block;
+            }
+        }
+    </style>
+	</head>
+    <body>
+
+        
+
+        <!--Mouce Cursor-->
+          <!-- <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner"><span>Drag</span></div> -->
+        <!--Mouce Cursor-->
+
+        
+
+        <!-- Start Navbar Area --> 
+        <div class="navbar-area ">
+            <div class="mobile-responsive-nav">
+                <div class="container">
+                    <div class="mobile-responsive-menu">
+                        <div class="logo">
+                            <a href="../index.html">
+                                <img src="../public/assets/images/white-logo.png" class="logo-icon-1" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="logo-icon-2" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="desktop-nav">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="../index.html">
+                            <img src="../public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                            <img src="../public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav m-auto">
+                                <li class="nav-item">
+                                    <a href="../index.html" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="../about" class="nav-link">About Us</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="why-should-businesses-hire-an-hr-consultant#" class="nav-link dropdown-toggle">
+                                        Services            
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+									<li class="nav-item">
+                                            <a href="../volume-hiring" class="nav-link">Volume Hiring</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../contract-staffing" class="nav-link">Contract Staffing</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../executive-search" class="nav-link">Executive Search</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../onboarding" class="nav-link">Onboarding</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../employee-training" class="nav-link">Employee Training</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../hr-consulting" class="nav-link">HR Consulting</a>
+                                        </li>
+                                        <!-- <li class="nav-item">
+                                            <a href="https://www.kutumbhhrcare.com/job-assessment" class="nav-link">Job Assessment</a>
+                                        </li>  -->   
+                                        <li class="nav-item">
+                                            <a href="../outsourcing" class="nav-link">HR Outsourcing</a>
+                                        </li>                
+                                    </ul>
+                                </li>
+
+
+                                
+
+                                
+<li class="nav-item">                                    <a href="http://182.18.144.207/payroll/frmCLogin.aspx" class="nav-link">Jobs Login</a>   </li>
+                                <li class="nav-item">
+                                    <a href="why-should-businesses-hire-an-hr-consultant#" class="nav-link dropdown-toggle">
+                                        Login  
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/AdLogin.aspx?Id=" class="nav-link" target="_blank">Emp Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/Payroll/login.aspx" class="nav-link" target="_blank">Client Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/payroll/Emplogin.aspx?Id=" class="nav-link" target="_blank">Associate Login</a>
+                                        </li>     
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/PMS/login.aspx" class="nav-link" target="_blank">Partner Login</a>
+                                        </li>  
+										
+                                        <!-- <li class="nav-item">
+                                            <a href="https://hr.kutumbhhrcare.com/OnlineTest/Applicantlogin.aspx" class="nav-link" target="_blank">Self Assessment</a>
+                                        </li> -->
+										
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/frmCLogin.aspx" class="nav-link" target="_blank">Core Candidate Login</a>
+                                        </li>             
+                                    </ul>
+                                </li>
+								<li class="nav-item mobileView">
+                                <a href="../contact-us" style="display: flex;align-items:center;justify-content:first baseline">  Apply Job</a>
+
+                                </a>
+
+                            </li>
+
+                        <li class="nav-item mobileView">
+                            <a href="../contact-us" class="nav-link ">Contact Us <i
+                                    class="ri-arrow-right-line"></i></a>
+                            </a>
+                        </li>
+                            </ul>
+
+                            <div class="others-options style2 ms-auto">
+                                <div class="option-item">
+                                    <a href="../contact-us" class="default-btn btn ">Apply Job <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                <div class="option-item">
+                                    <a href="../contact-us" class="default-btn btn ">Contact Us <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+         
+        </div>
+        <!-- End Navbar Area -->
+<!--Start Page Header Area-->
+<div class="page-header-area bg-f4fbf6">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-6">
+                <div class="page-header-content">
+                    <h1>Why Should Businesses Hire an HR Consultant?</h1>
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="https://www.kutumbhhrcare.com/blog">Blog</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="page-header-image">
+                    <img src="../public/assets/images/banner/banner-img-3.png" alt="Image">
+                </div>
+            </div>
+        </div>
+
+        <div class="page-header-shape">
+            <img src="../public/assets/images/shape/shape-8.png" alt="Image">
+            <img src="../public/assets/images/shape/shape-9.png" alt="Image">
+            <img src="../public/assets/images/shape/shape-10.png" alt="Image">
+        </div>
+    </div>
+</div>
+<!--End Page Header Area-->
+
+<!--Start Blog Details Area-->
+<div class="blog-details-area pt-100 pb-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="blog-details">
+                    <div class="top-img">
+                        <img src="../public/uploads/blog/1685346698.jpeg" alt="Why Should Businesses Hire an HR Consultant?">
+                    </div>
+                    <div class="blog-details-content">
+
+                        <h3>Why Should Businesses Hire an HR Consultant?</h3>
+                        <p><p>For any business, the support and strength of the people they work with decide their success. The employees in the company play a vital role in taking it to the top. However, the quality of your employees eventually decides the organisation&rsquo;s growth. So, an organisation must pick skilled and talented individuals to grow a company rapidly. But the question is how to find the right candidate. From here, the organisation turns to professional help to build their dream team.</p>
+
+<p>Human Resource Consultants help you hire the right people for the job. If you are unaware of the HR shared services and why to hire them then read this article and know their worth.</p>
+
+<p><strong>Get Expert Advice </strong></p>
+
+<p>HR consultants help clients with their strategies and suggestions. Whether you are running a small business or a bigger organisation, you can consider the guidance from an HR consultant to increase productivity.&nbsp; More so when you don&rsquo;t have a dedicated HR team.</p>
+
+<p>The work of the HR consultant does not finish by handling the HR resources alone, it also takes care of other necessary work like developing the potential of the organisation, building an employer-employee relationship and planning training, seminars and recognition schemes.</p>
+
+<p>As HR consultant service experts have experience working with various organisations, they can provide expert advice to help organisations achieve their goals.</p>
+
+<p><strong>Efficient Hiring and Recruitment </strong></p>
+
+<p>Employees are an important part of an organisation and vital for its success. HR consultants play a crucial role in the hiring and recruitment process of candidates in the company.</p>
+
+<p>However, they may not advertise a vacancy or sit on the interview panel, but their advice is important to achieve a productive team. They perform their duty effectively as they have experience in this. They check the candidate&#39;s history, skills, experience and attitude towards the designated position.</p>
+
+<p>Due to their knowledge and experience in the HR field, they develop efficient methods and solutions to help the entire process of hiring employees effortlessly, quickly and efficiently.</p>
+
+<p><strong>Performance Management Program </strong></p>
+
+<p>Performance appraisal is important for the company. This shows how much the employee&#39;s contribution and hard work are important to the organisation. This fosters enhanced productivity and a conducive work culture within an organisation.</p>
+
+<p>HR consultant has experience in performance management programs. They review and create the best appraisal process that benefits businesses and employees.</p>
+
+<p><strong>Manage Training and Development </strong></p>
+
+<p>Training is an essential part of the newly hired employee; it teaches them about your business&#39; values and policies. HR consultants have the expertise that helps you create and schedule training programs or workshops.</p>
+
+<p>Training isn&rsquo;t only important for new employees but also for existing employees. When they get new skills and knowledge, it helps them work effectively for the organisation. HR consultants help review the current and existing processes, especially if the performance of the team or individual is not good enough.</p>
+
+<p><strong>Provide Cost-effective Solutions </strong></p>
+
+<p>HR consultants understand their work properly and know very well what to do or what not. They also provide cost-effective solutions to organisations.</p>
+
+<p><strong>Stay Compliant with Employment Practices</strong></p>
+
+<p>HR consultants make sure that your company stays compliant in every aspect. They stay updated about all rules and regulations and upcoming legislative changes. They have a full understanding of how to handle these laws and their challenges.</p>
+
+<p>They have expertise in handling labour laws and are all professionally trained to navigate the ever-changing landscape of employee relationship management. After handing your work to a reputed HR consultant, you, as an organisation, will have literally no worries regarding human resource management.</p>
+
+<h3><strong>Helps Focus on Core Business</strong></h3>
+
+<p>HR consultants free you from handling complex hiring, training, onboarding, payroll and other tasks. However, the entire process is crucial for any business, but by handing this to the HR consultant, you save your time, effort and money and get the best results at the same time.</p>
+
+<p>HR consultants allow you to focus on your core business. You can thus devote your time to crafting and implementing impactful business strategies.</p>
+
+<p><strong>Conclusion&nbsp; </strong></p>
+
+<p>Here we discussed the benefits of outsourcing HR services. They benefit in many ways by sourcing skilled people and managing their complex payroll process. This is the best method to handle employee-related matters. HR consultants&rsquo; advice and strategies help grow your business. So, if you want to hire an HR consultant for your business, contact <strong>Kutumbh HRCare (Kaam Matlab Kutumbh)</strong>. It is an <a href="../hr-consulting"><strong>HR consulting Company</strong></a> that manages hiring, onboarding and salaries, along with a full and final settlement process of employees hired for different companies. Contact Kutumbh HRCare Now!</p></p>
+<hr>
+                        <div class="related-post">
+                            <h3>Related Post</h3>
+                            <div class="row">
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="kutumbh-ke-sitaare-reward-recognition-program-for-june-2024"><img
+                                                        src="../public/uploads/blog/1720528199.jpg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="kutumbh-ke-sitaare-reward-recognition-program-for-june-2024">Kutumbh Ke Sitaare Reward &amp; Recognition Program for June 2024</a>
+                                                </h3>
+                                                <a href="kutumbh-ke-sitaare-reward-recognition-program-for-june-2024" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="bulk-hiring-strategies-for-the-hospitality-industry"><img
+                                                        src="../public/uploads/blog/1720611365.jpg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="bulk-hiring-strategies-for-the-hospitality-industry">Bulk Hiring Strategies for the Hospitality Industry</a>
+                                                </h3>
+                                                <a href="bulk-hiring-strategies-for-the-hospitality-industry" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="bulk-hiring-strategies-for-the-logistics-industry"><img
+                                                        src="../public/uploads/blog/1720781492.jpg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="bulk-hiring-strategies-for-the-logistics-industry">Bulk Hiring Strategies for the Logistics Industry</a>
+                                                </h3>
+                                                <a href="bulk-hiring-strategies-for-the-logistics-industry" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="future-hiring-trends-in-e-commerce-business"><img
+                                                        src="../public/uploads/blog/1721216703.jpeg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="future-hiring-trends-in-e-commerce-business">Future Hiring Trends in E-commerce Business</a>
+                                                </h3>
+                                                <a href="future-hiring-trends-in-e-commerce-business" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col-lg-6 col-sm-6">
+                                        <div class="single-blog-card style4">
+                                            <div class="blog-img ">
+                                                <a href="bulk-hiring-for-different-roles-in-automobile-business"><img
+                                                        src="../public/uploads/blog/1721736875.jpeg"
+                                                        alt="Image"></a>
+                                            </div>
+                                            <div class="blog-content">
+
+                                                <h3><a
+                                                        href="bulk-hiring-for-different-roles-in-automobile-business">Bulk Hiring for Different Roles in Automobile Business</a>
+                                                </h3>
+                                                <a href="bulk-hiring-for-different-roles-in-automobile-business" class="default-btn btn">Explore More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="blog-details-sidebar">
+                    <div class="sidebar-widget">
+                        <h3>Search Here</h3>
+                        <div class="search-bar">
+                            <form action="https://www.kutumbhhrcare.com/search-blogs" method="POST">
+                                <div class="form-group">
+                                    <input type="hidden" name="_token" value="l5Ef9IPyPkI0a2hq1qQFY40PCjOlBDI8toQDiDgW">                                    <input type="text" class="form-control" placeholder="Find out now" name="search">
+                                    <button class="default-btn active" type="submit">
+                                        <i class="ri-file-search-line"></i>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="sidebar-widget">
+                        <h3>Category</h3>
+                        <div class="Category-list">
+                            <ul>
+                                                                    <li><a href="../blog-category/training"><i class="ri-arrow-right-s-line"></i> Training</a>
+                                    </li>
+                                                                    <li><a href="../blog-category/hr"><i class="ri-arrow-right-s-line"></i> HR</a>
+                                    </li>
+                                                                    <li><a href="../blog-category/events"><i class="ri-arrow-right-s-line"></i> Events</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="sidebar-widget widget-peru-posts-thumb">
+                        <h3>Recent Post</h3>
+                        <div class="post-wrap">
+                                                            <article class="item">
+                                    <a href="kutumbh-ke-sitaare-reward-recognition-program-for-june-2024" class="thumb">
+                                        <img src="../public/uploads/blog/1720528199.jpg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-09 12:29:59</time>
+                                        <h4 class="title usmall">
+                                            <a href="kutumbh-ke-sitaare-reward-recognition-program-for-june-2024">
+                                                Kutumbh Ke Sitaare Reward &amp; Recognition Program for June 2024
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                                                            <article class="item">
+                                    <a href="bulk-hiring-strategies-for-the-hospitality-industry" class="thumb">
+                                        <img src="../public/uploads/blog/1720611365.jpg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-10 11:36:05</time>
+                                        <h4 class="title usmall">
+                                            <a href="bulk-hiring-strategies-for-the-hospitality-industry">
+                                                Bulk Hiring Strategies for the Hospitality Industry
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                                                            <article class="item">
+                                    <a href="bulk-hiring-strategies-for-the-logistics-industry" class="thumb">
+                                        <img src="../public/uploads/blog/1720781492.jpg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-12 10:51:32</time>
+                                        <h4 class="title usmall">
+                                            <a href="bulk-hiring-strategies-for-the-logistics-industry">
+                                                Bulk Hiring Strategies for the Logistics Industry
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                                                            <article class="item">
+                                    <a href="future-hiring-trends-in-e-commerce-business" class="thumb">
+                                        <img src="../public/uploads/blog/1721216703.jpeg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-17 11:45:03</time>
+                                        <h4 class="title usmall">
+                                            <a href="future-hiring-trends-in-e-commerce-business">
+                                                Future Hiring Trends in E-commerce Business
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                                                            <article class="item">
+                                    <a href="bulk-hiring-for-different-roles-in-automobile-business" class="thumb">
+                                        <img src="../public/uploads/blog/1721736875.jpeg" class="fullimage cover bg1" ></span>
+                                    </a>
+                                    <div class="info">
+                                        <time datetime="2022-06-30">2024-07-23 12:14:35</time>
+                                        <h4 class="title usmall">
+                                            <a href="bulk-hiring-for-different-roles-in-automobile-business">
+                                                Bulk Hiring for Different Roles in Automobile Business
+                                            </a>
+                                        </h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </article>
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Blog Details Area-->
+
+<!--Start Footer Area-->
+ <div class="start-footer-area pt-100 pb-70">
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-logo-area">
+                     <a href="../index.html"><img src="../public/assets/images/white-kc-logo.png"
+                             alt="Logo"></a>
+                     <p>Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.</p>
+                     <div class="social-content">
+                         <ul>
+                             <li>
+                                 <span>Follow Us</span>
+                             </li>
+                             <li>
+                                 <a href="https://www.facebook.com/kutumbhhrcareofficial/" target="_blank"><i class="ri-facebook-line"></i></a>
+                             </li>							 
+                             <li>
+                                 <a href="https://www.linkedin.com/company/kutumbh-hrcare-private-limited/" target="_blank"><i
+                                         class="ri-linkedin-line"></i></a>
+                             </li>							 							  <li>                                 <a href="https://twitter.com/Kutumbhhrcare_" target="_blank"><i                                         class="ri-twitter-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.youtube.com/@kutumbhhrcare1265/videos" target="_blank"><i                                         class="ri-youtube-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.instagram.com/kutumbhhrcare_/" target="_blank"><i                                         class="ri-instagram-line"></i></a>                             </li>
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Useful Links</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../about">About Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../contact-us">Contact Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="https://www.kutumbhhrcare.com/blog">News & Blog</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../awards-and-recognition">Awards & Recognition</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../blog-category/events">Events</a>
+                             </li>
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+			  <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Our Presence</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-delhi">Delhi</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-noida">Noida</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-bangalore">Bangalore</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-chennai">Chennai</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-mumbai">Mumbai</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-hyderabad">Hyderabad</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../locations">View More..</a>
+                             </li> 
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-address-area">
+                     <h3>Address Information</h3>
+                     <ul>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-phone-call-1"></i>
+                             </div>
+                             <p>Call Us Now</p>
+                             <a href="tel:+919958148484">+919958148484</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-mail"></i>
+                             </div>
+                             <p>Email Address</p>
+                             <a href="mailto:info@kutumbhhrcare.com">info@kutumbhhrcare.com</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-place"></i>
+                             </div>
+                             <p>Head Office</p>
+                             <span>B-154, B Block, Sector 63, Noida,<br> Uttar Pradesh-201301 </span>
+                         </li>
+                     </ul>
+                 </div>
+             </div>
+
+
+         </div>
+     </div>
+ </div>
+ <!--End Footer Area-->
+
+ <!--Start Copy Right Area-->
+ <div class="copy-right-area">
+     <div class="container">
+         <p>2024 &copy; All Rights Reserved by Kutumbh HRCare Private Limited
+            <br>
+            CIN: U74900DL2018PTC334097
+         </p>
+     </div>
+ </div>
+ <!--End Copy Right Area-->
+
+ <!-- Start Go Top Area -->
+ <div class="go-top">
+     <i class="ri-rocket-line"></i>
+     <i class="ri-rocket-line"></i>
+ </div>
+ <!-- End Go Top Area -->
+
+
+ <!-- Jquery js -->
+ <script data-cfasync="false" src="https://www.kutumbhhrcare.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+ <script src="../public/assets/js/jquery.min.js"></script>
+ <!-- Bootstrap bundle js -->
+ <script src="../public/assets/js/bootstrap.bundle.min.js"></script>
+ <!-- Meanmenu js -->
+ <script src="../public/assets/js/jquery.meanmenu.js"></script>
+ <!-- Owl Carosel js -->
+ <script src="../public/assets/js/owl.carousel.min.js"></script>
+ <!-- Magnific popup js -->
+ <script src="../public/assets/js/jquery.magnific-popup.js"></script>
+ <!-- Aos js -->
+ <script src="../public/assets/js/aos.js"></script>
+ <!-- Mixitup js -->
+ <script src="../public/assets/js/mixitup.min.js"></script>
+ <!-- Odometer js -->
+ <script src="../public/assets/js/odometer.min.js"></script>
+ <!-- Appear js -->
+ <script src="../public/assets/js/appear.min.js"></script>
+ <!-- Form Validator js -->
+ <script src="../public/assets/js/form-validator.min.js"></script>
+ <!-- Contact Form Script js -->
+ <script src="../public/assets/js/contact-form-script.js"></script>
+ <!-- Ajaxchimp js -->
+ <script src="../public/assets/js/ajaxchimp.min.js"></script>
+ <!--Custom js-->
+ <script src="../public/assets/js/custom.js"></script>
+ 
+ <script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "LocalBusiness",
+"image": [
+    "https://www.kutumbhhrcare.com/public/assets/images/white-logo.png"],
+    
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Noida",
+"addressRegion": "India",
+"postalCode":"201301",
+"streetAddress": "Kutumbh Care Pvt Ltd, B154, B Block, Sector - 63"
+},
+"description": "Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.",
+"name": "Kutumbh HRCare",
+"telephone": "+919958148484",
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "28.6149744",
+"longitude": "77.3764202"
+},
+"sameAs" : [ "https://www.facebook.com/kutumbhhrcareofficial/",
+"https://www.linkedin.com/company/kutumbh-hrcare-private-limited/",
+"https://twitter.com/Kutumbhhrcare_",
+"https://www.youtube.com/@kutumbhhrcare1265/videos",
+"https://www.instagram.com/kutumbhhrcare_/"]
+}
+</script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "7222665";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=7222665&fmt=gif" />
+</noscript>
+ 
+ </body>
+ </html>

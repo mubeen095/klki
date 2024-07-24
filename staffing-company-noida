@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--Bootstrap Css-->
+        <link rel="stylesheet" href="public/assets/css/bootstrap.min.css">
+        <!--Meanmenu Css-->
+        <link rel="stylesheet" href="public/assets/css/meanmenu.css">
+        <!--Owl carousel-->
+        <link rel="stylesheet" href="public/assets/css/owl.carousel.min.css">
+        <!--Owl Theme-->
+        <link rel="stylesheet" href="public/assets/css/owl.theme.default.min.css">
+        <!--Magnific-popup-->
+        <link rel="stylesheet" href="public/assets/css/magnific-popup.css">
+        <!--Flaticon-->
+        <link rel="stylesheet" href="public/assets/css/flaticon.css">
+        <!--Remixicon-->
+        <link rel="stylesheet" href="public/assets/css/remixicon.css">
+        <!--Odometer-->
+        <link rel="stylesheet" href="public/assets/css/odometer.min.css">
+        <!--Aos css-->
+        <link rel="stylesheet" href="public/assets/css/aos.css">
+        <!--Style css-->
+        <link rel="stylesheet" href="public/assets/css/style.css">
+        <!--Dark css-->
+        <link rel="stylesheet" href="public/assets/css/dark.css">
+        <!--Responsive css-->
+        <link rel="stylesheet" href="public/assets/css/responsive.css">
+        <title>Top Staffing Company in Noida | Staffing Agency in Noida</title>
+        <meta name="description" content="Top Staffing Company in Noida - Kutumbh HRCare provides Staffing services in Noida including bulk hiring services in Noida, contract staffing services in Noida, payroll management and more."/>
+        <link rel="canonical" href="staffing-company-noida" />
+        <link rel="icon" type="image/png" href="public/assets/images/favicon.png">				<!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-FZPXSXB5TF"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-FZPXSXB5TF');</script>
+    <style>
+        .mobileView {
+            display: none;
+        }
+
+        @media (max-width:992px) {
+            .mobileView {
+                display: block;
+            }
+        }
+    </style>
+	</head>
+    <body>
+
+        
+
+        <!--Mouce Cursor-->
+          <!-- <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner"><span>Drag</span></div> -->
+        <!--Mouce Cursor-->
+
+        
+
+        <!-- Start Navbar Area --> 
+        <div class="navbar-area ">
+            <div class="mobile-responsive-nav">
+                <div class="container">
+                    <div class="mobile-responsive-menu">
+                        <div class="logo">
+                            <a href="index.html">
+                                <img src="public/assets/images/white-logo.png" class="logo-icon-1" alt="logo">
+                                <img src="public/assets/images/white-logo.png" class="logo-icon-2" alt="logo">
+                                <img src="public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                                <img src="public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="desktop-nav">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                            <img src="public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav m-auto">
+                                <li class="nav-item">
+                                    <a href="index.html" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="about" class="nav-link">About Us</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="staffing-company-noida#" class="nav-link dropdown-toggle">
+                                        Services            
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+									<li class="nav-item">
+                                            <a href="volume-hiring" class="nav-link">Volume Hiring</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="contract-staffing" class="nav-link">Contract Staffing</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="executive-search" class="nav-link">Executive Search</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="onboarding" class="nav-link">Onboarding</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="employee-training" class="nav-link">Employee Training</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="hr-consulting" class="nav-link">HR Consulting</a>
+                                        </li>
+                                        <!-- <li class="nav-item">
+                                            <a href="https://www.kutumbhhrcare.com/job-assessment" class="nav-link">Job Assessment</a>
+                                        </li>  -->   
+                                        <li class="nav-item">
+                                            <a href="outsourcing" class="nav-link">HR Outsourcing</a>
+                                        </li>                
+                                    </ul>
+                                </li>
+
+
+                                
+
+                                
+<li class="nav-item">                                    <a href="http://182.18.144.207/payroll/frmCLogin.aspx" class="nav-link">Jobs Login</a>   </li>
+                                <li class="nav-item">
+                                    <a href="staffing-company-noida#" class="nav-link dropdown-toggle">
+                                        Login  
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/AdLogin.aspx?Id=" class="nav-link" target="_blank">Emp Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/Payroll/login.aspx" class="nav-link" target="_blank">Client Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/payroll/Emplogin.aspx?Id=" class="nav-link" target="_blank">Associate Login</a>
+                                        </li>     
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/PMS/login.aspx" class="nav-link" target="_blank">Partner Login</a>
+                                        </li>  
+										
+                                        <!-- <li class="nav-item">
+                                            <a href="https://hr.kutumbhhrcare.com/OnlineTest/Applicantlogin.aspx" class="nav-link" target="_blank">Self Assessment</a>
+                                        </li> -->
+										
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/frmCLogin.aspx" class="nav-link" target="_blank">Core Candidate Login</a>
+                                        </li>             
+                                    </ul>
+                                </li>
+								<li class="nav-item mobileView">
+                                <a href="contact-us" style="display: flex;align-items:center;justify-content:first baseline">  Apply Job</a>
+
+                                </a>
+
+                            </li>
+
+                        <li class="nav-item mobileView">
+                            <a href="contact-us" class="nav-link ">Contact Us <i
+                                    class="ri-arrow-right-line"></i></a>
+                            </a>
+                        </li>
+                            </ul>
+
+                            <div class="others-options style2 ms-auto">
+                                <div class="option-item">
+                                    <a href="contact-us" class="default-btn btn ">Apply Job <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                <div class="option-item">
+                                    <a href="contact-us" class="default-btn btn ">Contact Us <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+         
+        </div>
+        <!-- End Navbar Area -->
+<!--Start Page Header Area-->
+<div class="page-header-area bg-f4fbf6">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-6">
+                <div class="page-header-content">
+                    <h1>Staffing Company in Noida</h1>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+						<li><a href="locations">Location</a></li>
+                        <li>Noida</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="page-header-image">
+                    <img src="public/assets/images/banner/banner-img-3.png" alt="HR Consulting">
+                </div>
+            </div>
+        </div>
+
+        <div class="page-header-shape">
+            <img src="public/assets/images/shape/shape-8.png" alt="Image">
+            <img src="public/assets/images/shape/shape-9.png" alt="Image">
+            <img src="public/assets/images/shape/shape-10.png" alt="Image">
+        </div>
+    </div>
+</div>
+<!--End Page Header Area-->
+
+<!--Start What We Do Area-->
+<div class="what-we-do-area p-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="what-we-do-image pr-20">
+                    <img src="public/assets/images/about/hr-consulting.jpg" alt="Top Staffing Company in Noida">
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="what-we-do-content">
+                    <div class="what-we-do-title">
+                        <span>Kutumbh HRCare</span>
+                        <h2>Top Staffing Company in Noida</h2>
+                        <p>
+                            With a vast population and several enterprises, Noida is considered the best location for people seeking a great career. Many people come here to find their dream jobs to live a successful life. They can certainly get the same in Noida where there are several small and large businesses. These include top corporate houses, banks, factories, call centres, etc. Noida is considered the manufacturing hub in the national capital region. </p>
+							<p>In organisations, demand for workers arises at any time due to some urgent project or some work. For that, they look to find a <b>staffing company in Noida</b>, to hire a desired candidate. </p>
+							<p>As a business enterprise, if you are looking for a <b>staffing agency in Noida</b>, choose Kutumbh HRCare (Kaam matlab Kutumbh). It has staffing experts who understand your business needs and implements effective hiring models. As a result, Kutumbh HRCare sources around 50,000 candidates on average to organisations annually.</p>
+							
+							<a href="contact-us" class="default-btn btn">Enquire Now <i
+                                        class="ri-arrow-right-line"></i></a>
+                    </div>
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End What We Do Area-->
+
+<!--Start Counter Area-->
+<div class="counter-area">
+    <div class="container-fluid">
+        <div class="counter-overly bg-fafafa py-4">
+            <div class="row">
+                <div class="com-md-12">
+                    <h2>Why Kutumbh HRCare for Staffing Services in Noida?</h2>
+                    <p>
+                       Kutumbh HRCare (Kaam matlab Kutumbh) stands out as a leading player in the human resource and consulting domain for several organisations in Noida. The company is dedicated to its partners and provides top-notch HR solutions to businesses across industries. We are proud to say that we have been serving Fortune 500 clients and others since 2007 and have become a top staffing company in Noida. With our client-centric approach, we at Kutumbh HRCare have earned a solid reputation for excellence and reliability in the HR industry. 
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Counter Area-->
+
+<!--Start Choose Area-->
+<div class="choose-area ptb-30">
+    <div class="container">
+        <div class="section-title">
+            <span>Staffing Services in Noida
+            </span>
+            <h2>Kutumbh HRCare’s Staffing Services in Noida  </h2>
+            <p>Kutumbh HRCare has been serving several organisations in Noida since 2007. Let’s have a glimpse of it!</p>
+        </div>
+
+        <div class="tab-teaser">
+            <div class="tab-menu">
+                <ul>
+                    <li><a href="staffing-company-noida#" class="active" data-rel="tab-1">Volume Hiring
+                        </a></li>
+                    <li><a href="staffing-company-noida#" data-rel="tab-2" class="">
+                            Contract Staffing
+                        </a></li>
+                    <li><a href="staffing-company-noida#" data-rel="tab-3" class="">
+                            Executive Search Services
+
+                        </a></li>
+						<li><a href="staffing-company-noida#" data-rel="tab-4" class="">
+                            Onboarding 
+
+                        </a></li>
+						
+						<br><br>
+						<li><a href="staffing-company-noida#" data-rel="tab-5" class="">
+                            Employee Training
+
+                        </a></li>
+						<li><a href="staffing-company-noida#" data-rel="tab-6" class="">
+                            HR Consulting 
+
+                        </a></li>
+						<li><a href="staffing-company-noida#" data-rel="tab-7" class="">
+                            Payroll & Legal Compliance
+
+                        </a></li>
+                </ul>
+            </div>
+            <div class="tab-box" id="tab-1" style="display:block;">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        <div class="col-lg-12">
+                            <div class="choose-content pr-15">
+                                <div class="choose-title">
+                                    <h2>Volume Hiring</h2>
+                                    <p>
+
+                                        For hiring desired candidates in bulk, Kutumbh Care provides the best staffing service in Noida. It deploys its experts to recruit hundreds and thousands of people within a short period. From temporary to permanent hiring, it manages everything. 
+
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="tab-box" id="tab-2">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                       
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>Contract Staffing </h2>
+                                    <p>Kutumbh HRCare has helped many businesses to hire talented candidates on a contractual basis. It is considered the best contract staffing agency in Noida. It helps find qualified candidates for several organisations for a short period.  </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-box" id="tab-3">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        <div class="col-lg-12">
+                            <div class="choose-content pr-15">
+                                <div class="choose-title">
+                                    <h2>Executive Search Services</h2>
+                                    <p>
+                                        Finding, recruiting, and placing senior-level candidates is not easy. But it becomes easy for many businesses in Noida when they shake hands with Kutumbh HRCare. With potential teamwork, it helps find desired candidates who could fit into these big roles.   
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="tab-box" id="tab-4">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>Onboarding</h2>
+                                    <p>Managing a core business while handling all onboarding processes and following all rules and regulations can be tough. Kutumbh HRCare is helping many organisations in Noida by managing the onboarding process that involves giving candidates an overview of the company’s work culture, vision, mission, etc. </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			 <div class="tab-box" id="tab-5">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>Employee Training</h2>
+                                    <p>Kutumbh HRCare is said to be the best employee training firm in Noida. Well-trained employees always take an organisation on the path to success. Kutumbh HRCare's experts work to train employees and make them job-ready. So, when they start working, they feel comfortable and deliver their best.   </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			 <div class="tab-box" id="tab-6">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>HR Consulting </h2>
+                                    <p>Kutumbh HRCare gives consulting services to several businesses in Noida and is open to suggest companies ideas for growth as and when required through its HR consulting services. It helps guide employees and ensure workflow management for businesses across Noida. </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			 <div class="tab-box" id="tab-7">
+                <div class="choose-tab-items">
+                    <div class="row align-items-center">
+                        
+                        <div class="col-lg-12">
+                            <div class="choose-content pl-15">
+                                <div class="choose-title">
+                                    <h2>Payroll & Legal Compliance</h2>
+                                    <p>Managing all payroll and compliance is not easy and if any problem comes, it makes the whole organisation suffer. Kutumbh HRCare is helping many organisations in Noida by maintaining all payroll and legal compliance effectively. </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--End Choose Area-->
+
+
+
+
+
+
+<!--Start Watch Video Area-->
+<div class="watch-video-area pt-5 pb-5">
+    <div class="container">
+        <div class="video-img">
+            <img src="public/assets/images/video-img/video-img-1.jpg" alt="Watch Corporate Video">
+            <div class="video-content">
+                <h3>Watch Video</h3>
+                <div class="play-btn">
+                    <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=EGZ-SxZ8Y5E">
+                        <img src="public/assets/images/icon/icon-1.png" alt="Watch Corporate Video">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Watch Video Area-->
+
+
+<!--Start Footer Area-->
+ <div class="start-footer-area pt-100 pb-70">
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-logo-area">
+                     <a href="index.html"><img src="public/assets/images/white-kc-logo.png"
+                             alt="Logo"></a>
+                     <p>Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.</p>
+                     <div class="social-content">
+                         <ul>
+                             <li>
+                                 <span>Follow Us</span>
+                             </li>
+                             <li>
+                                 <a href="https://www.facebook.com/kutumbhhrcareofficial/" target="_blank"><i class="ri-facebook-line"></i></a>
+                             </li>							 
+                             <li>
+                                 <a href="https://www.linkedin.com/company/kutumbh-hrcare-private-limited/" target="_blank"><i
+                                         class="ri-linkedin-line"></i></a>
+                             </li>							 							  <li>                                 <a href="https://twitter.com/Kutumbhhrcare_" target="_blank"><i                                         class="ri-twitter-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.youtube.com/@kutumbhhrcare1265/videos" target="_blank"><i                                         class="ri-youtube-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.instagram.com/kutumbhhrcare_/" target="_blank"><i                                         class="ri-instagram-line"></i></a>                             </li>
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Useful Links</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="about">About Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="contact-us">Contact Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="https://www.kutumbhhrcare.com/blog">News & Blog</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="awards-and-recognition">Awards & Recognition</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="blog-category/events">Events</a>
+                             </li>
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+			  <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Our Presence</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-delhi">Delhi</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-noida">Noida</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-bangalore">Bangalore</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-chennai">Chennai</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-mumbai">Mumbai</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="staffing-company-hyderabad">Hyderabad</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="locations">View More..</a>
+                             </li> 
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-address-area">
+                     <h3>Address Information</h3>
+                     <ul>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-phone-call-1"></i>
+                             </div>
+                             <p>Call Us Now</p>
+                             <a href="tel:+919958148484">+919958148484</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-mail"></i>
+                             </div>
+                             <p>Email Address</p>
+                             <a href="mailto:info@kutumbhhrcare.com">info@kutumbhhrcare.com</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-place"></i>
+                             </div>
+                             <p>Head Office</p>
+                             <span>B-154, B Block, Sector 63, Noida,<br> Uttar Pradesh-201301 </span>
+                         </li>
+                     </ul>
+                 </div>
+             </div>
+
+
+         </div>
+     </div>
+ </div>
+ <!--End Footer Area-->
+
+ <!--Start Copy Right Area-->
+ <div class="copy-right-area">
+     <div class="container">
+         <p>2024 &copy; All Rights Reserved by Kutumbh HRCare Private Limited
+            <br>
+            CIN: U74900DL2018PTC334097
+         </p>
+     </div>
+ </div>
+ <!--End Copy Right Area-->
+
+ <!-- Start Go Top Area -->
+ <div class="go-top">
+     <i class="ri-rocket-line"></i>
+     <i class="ri-rocket-line"></i>
+ </div>
+ <!-- End Go Top Area -->
+
+
+ <!-- Jquery js -->
+ <script data-cfasync="false" src="https://www.kutumbhhrcare.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+ <script src="public/assets/js/jquery.min.js"></script>
+ <!-- Bootstrap bundle js -->
+ <script src="public/assets/js/bootstrap.bundle.min.js"></script>
+ <!-- Meanmenu js -->
+ <script src="public/assets/js/jquery.meanmenu.js"></script>
+ <!-- Owl Carosel js -->
+ <script src="public/assets/js/owl.carousel.min.js"></script>
+ <!-- Magnific popup js -->
+ <script src="public/assets/js/jquery.magnific-popup.js"></script>
+ <!-- Aos js -->
+ <script src="public/assets/js/aos.js"></script>
+ <!-- Mixitup js -->
+ <script src="public/assets/js/mixitup.min.js"></script>
+ <!-- Odometer js -->
+ <script src="public/assets/js/odometer.min.js"></script>
+ <!-- Appear js -->
+ <script src="public/assets/js/appear.min.js"></script>
+ <!-- Form Validator js -->
+ <script src="public/assets/js/form-validator.min.js"></script>
+ <!-- Contact Form Script js -->
+ <script src="public/assets/js/contact-form-script.js"></script>
+ <!-- Ajaxchimp js -->
+ <script src="public/assets/js/ajaxchimp.min.js"></script>
+ <!--Custom js-->
+ <script src="public/assets/js/custom.js"></script>
+ 
+ <script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "LocalBusiness",
+"image": [
+    "https://www.kutumbhhrcare.com/public/assets/images/white-logo.png"],
+    
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Noida",
+"addressRegion": "India",
+"postalCode":"201301",
+"streetAddress": "Kutumbh Care Pvt Ltd, B154, B Block, Sector - 63"
+},
+"description": "Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.",
+"name": "Kutumbh HRCare",
+"telephone": "+919958148484",
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "28.6149744",
+"longitude": "77.3764202"
+},
+"sameAs" : [ "https://www.facebook.com/kutumbhhrcareofficial/",
+"https://www.linkedin.com/company/kutumbh-hrcare-private-limited/",
+"https://twitter.com/Kutumbhhrcare_",
+"https://www.youtube.com/@kutumbhhrcare1265/videos",
+"https://www.instagram.com/kutumbhhrcare_/"]
+}
+</script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "7222665";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=7222665&fmt=gif" />
+</noscript>
+ 
+ </body>
+ </html>

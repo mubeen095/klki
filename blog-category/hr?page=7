@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--Bootstrap Css-->
+        <link rel="stylesheet" href="../public/assets/css/bootstrap.min.css">
+        <!--Meanmenu Css-->
+        <link rel="stylesheet" href="../public/assets/css/meanmenu.css">
+        <!--Owl carousel-->
+        <link rel="stylesheet" href="../public/assets/css/owl.carousel.min.css">
+        <!--Owl Theme-->
+        <link rel="stylesheet" href="../public/assets/css/owl.theme.default.min.css">
+        <!--Magnific-popup-->
+        <link rel="stylesheet" href="../public/assets/css/magnific-popup.css">
+        <!--Flaticon-->
+        <link rel="stylesheet" href="../public/assets/css/flaticon.css">
+        <!--Remixicon-->
+        <link rel="stylesheet" href="../public/assets/css/remixicon.css">
+        <!--Odometer-->
+        <link rel="stylesheet" href="../public/assets/css/odometer.min.css">
+        <!--Aos css-->
+        <link rel="stylesheet" href="../public/assets/css/aos.css">
+        <!--Style css-->
+        <link rel="stylesheet" href="../public/assets/css/style.css">
+        <!--Dark css-->
+        <link rel="stylesheet" href="../public/assets/css/dark.css">
+        <!--Responsive css-->
+        <link rel="stylesheet" href="../public/assets/css/responsive.css">
+        <title>KHC - blogcategory</title>
+        <meta name="description" content="hey you okay ?"/>
+        <link rel="canonical" href="https://www.kutumbhhrcare.com/are you okay ?" />
+        <link rel="icon" type="image/png" href="../public/assets/images/favicon.png">				<!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-FZPXSXB5TF"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-FZPXSXB5TF');</script>
+    <style>
+        .mobileView {
+            display: none;
+        }
+
+        @media (max-width:992px) {
+            .mobileView {
+                display: block;
+            }
+        }
+    </style>
+	</head>
+    <body>
+
+        
+
+        <!--Mouce Cursor-->
+          <!-- <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner"><span>Drag</span></div> -->
+        <!--Mouce Cursor-->
+
+        
+
+        <!-- Start Navbar Area --> 
+        <div class="navbar-area ">
+            <div class="mobile-responsive-nav">
+                <div class="container">
+                    <div class="mobile-responsive-menu">
+                        <div class="logo">
+                            <a href="../index.html">
+                                <img src="../public/assets/images/white-logo.png" class="logo-icon-1" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="logo-icon-2" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                                <img src="../public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="desktop-nav">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="../index.html">
+                            <img src="../public/assets/images/white-logo.png" class="main-logo" alt="logo">
+                            <img src="../public/assets/images/white-logo.png" class="white-logo" alt="logo">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav m-auto">
+                                <li class="nav-item">
+                                    <a href="../index.html" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="../about" class="nav-link">About Us</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="hr?page=7#" class="nav-link dropdown-toggle">
+                                        Services            
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+									<li class="nav-item">
+                                            <a href="../volume-hiring" class="nav-link">Volume Hiring</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../contract-staffing" class="nav-link">Contract Staffing</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../executive-search" class="nav-link">Executive Search</a>
+                                        </li>
+										<li class="nav-item">
+                                            <a href="../onboarding" class="nav-link">Onboarding</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../employee-training" class="nav-link">Employee Training</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../hr-consulting" class="nav-link">HR Consulting</a>
+                                        </li>
+                                        <!-- <li class="nav-item">
+                                            <a href="https://www.kutumbhhrcare.com/job-assessment" class="nav-link">Job Assessment</a>
+                                        </li>  -->   
+                                        <li class="nav-item">
+                                            <a href="../outsourcing" class="nav-link">HR Outsourcing</a>
+                                        </li>                
+                                    </ul>
+                                </li>
+
+
+                                
+
+                                
+<li class="nav-item">                                    <a href="http://182.18.144.207/payroll/frmCLogin.aspx" class="nav-link">Jobs Login</a>   </li>
+                                <li class="nav-item">
+                                    <a href="hr?page=7#" class="nav-link dropdown-toggle">
+                                        Login  
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/AdLogin.aspx?Id=" class="nav-link" target="_blank">Emp Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/Payroll/login.aspx" class="nav-link" target="_blank">Client Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/payroll/Emplogin.aspx?Id=" class="nav-link" target="_blank">Associate Login</a>
+                                        </li>     
+                                        <li class="nav-item">
+                                            <a href="http://182.18.144.207/PMS/login.aspx" class="nav-link" target="_blank">Partner Login</a>
+                                        </li>  
+										
+                                        <!-- <li class="nav-item">
+                                            <a href="https://hr.kutumbhhrcare.com/OnlineTest/Applicantlogin.aspx" class="nav-link" target="_blank">Self Assessment</a>
+                                        </li> -->
+										
+                                        <li class="nav-item">
+                                            <a href="https://103.127.29.253/Payroll/frmCLogin.aspx" class="nav-link" target="_blank">Core Candidate Login</a>
+                                        </li>             
+                                    </ul>
+                                </li>
+								<li class="nav-item mobileView">
+                                <a href="../contact-us" style="display: flex;align-items:center;justify-content:first baseline">  Apply Job</a>
+
+                                </a>
+
+                            </li>
+
+                        <li class="nav-item mobileView">
+                            <a href="../contact-us" class="nav-link ">Contact Us <i
+                                    class="ri-arrow-right-line"></i></a>
+                            </a>
+                        </li>
+                            </ul>
+
+                            <div class="others-options style2 ms-auto">
+                                <div class="option-item">
+                                    <a href="../contact-us" class="default-btn btn ">Apply Job <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                <div class="option-item">
+                                    <a href="../contact-us" class="default-btn btn ">Contact Us <i class="ri-arrow-right-line"></i></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+         
+        </div>
+        <!-- End Navbar Area -->
+        <!--Start Page Header Area-->
+        <div class="page-header-area bg-f4fbf6">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="page-header-content">
+                            <h1>Blog</h1>
+                            <ul>
+                                <li><a href="../index.html">Home</a></li>
+                                <li>Blog</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="page-header-image">
+                            <img src="../public/assets/images/banner/banner-img-3.png" alt="Image">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="page-header-shape">
+                    <img src="../public/assets/images/shape/shape-8.png" alt="Image">
+                    <img src="../public/assets/images/shape/shape-9.png" alt="Image">
+                    <img src="../public/assets/images/shape/shape-10.png" alt="Image">
+                </div>
+            </div>
+        </div>
+        <!--End Page Header Area-->
+
+        <!--Start Blog Area-->
+        <div class="blog-area ptb-100">
+            <div class="container">
+                <div class="section-title">
+                    <span>News & Blog</span>
+                    <h2>Check Out Our Latest Blog Post</h2>
+                    <p>Our solution-oriented approach can be best explained through the blogs crafted by expert writers in job and HR domains. 					We love to highlight pressing issues along with plausible solutions. Follow our blog section to know all those.</p>
+                </div>
+                <div class="row justify-content-center">
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/selecting-the-staffing-company-for-strategic-hr-outsourcing-services"><img src="../public/uploads/blog/1700647802.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/selecting-the-staffing-company-for-strategic-hr-outsourcing-services">Selecting the Staffing Company for Strategic HR Outsourcing Services</a></h3>
+                                <a href="../blog/selecting-the-staffing-company-for-strategic-hr-outsourcing-services" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/selecting-candidates-on-a-contract-basis"><img src="../public/uploads/blog/1700218949.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/selecting-candidates-on-a-contract-basis">Selecting Candidates on a Contract Basis</a></h3>
+                                <a href="../blog/selecting-candidates-on-a-contract-basis" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/challenges-in-hiring-suitable-candidates-for-organisations"><img src="../public/uploads/blog/1700051498.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/challenges-in-hiring-suitable-candidates-for-organisations">Challenges in Hiring Suitable Candidates for Organisations</a></h3>
+                                <a href="../blog/challenges-in-hiring-suitable-candidates-for-organisations" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/tips-to-choose-the-best-manpower-consultancy-in-hyderabad"><img src="../public/uploads/blog/1699347329.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/tips-to-choose-the-best-manpower-consultancy-in-hyderabad">Tips to Choose the Best Manpower Consultancy in Hyderabad</a></h3>
+                                <a href="../blog/tips-to-choose-the-best-manpower-consultancy-in-hyderabad" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/exploring-types-of-recruitment-methods"><img src="../public/uploads/blog/1699005115.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/exploring-types-of-recruitment-methods">Exploring Types of Recruitment Methods</a></h3>
+                                <a href="../blog/exploring-types-of-recruitment-methods" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/growth-opportunities-with-the-best-hr-consultancy-in-bangalore"><img src="../public/uploads/blog/1698738690.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/growth-opportunities-with-the-best-hr-consultancy-in-bangalore">Growth Opportunities with the Best HR Consultancy in Bangalore</a></h3>
+                                <a href="../blog/growth-opportunities-with-the-best-hr-consultancy-in-bangalore" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/differences-between-volume-hiring-regular-recruitment"><img src="../public/uploads/blog/1698385198.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/differences-between-volume-hiring-regular-recruitment">Differences Between Volume Hiring &amp; Regular Recruitment</a></h3>
+                                <a href="../blog/differences-between-volume-hiring-regular-recruitment" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/top-tips-to-improve-the-hiring-process"><img src="../public/uploads/blog/1697879823.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/top-tips-to-improve-the-hiring-process">Top Tips to Improve the Hiring Process</a></h3>
+                                <a href="../blog/top-tips-to-improve-the-hiring-process" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="col-lg-4 col-sm-6">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="../blog/top-tips-to-overcome-executive-search-challenges"><img src="../public/uploads/blog/1697716052.jpeg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                            
+                                <h3><a href="../blog/top-tips-to-overcome-executive-search-challenges">Top Tips to Overcome Executive Search Challenges</a></h3>
+                                <a href="../blog/top-tips-to-overcome-executive-search-challenges" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                                      
+                </div>
+             <div class="default-btn btn" style="height: 80px!important;overflow:hidden!important;padding-top:20px;color:black!important">
+            <nav role="navigation" aria-label="Pagination Navigation" class="flex items-center justify-between">
+        <div class="flex justify-between flex-1 sm:hidden">
+                            <a href="hr?page=6" class="relative inline-flex items-center px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150">
+                    &laquo; Previous
+                </a>
+            
+                            <a href="hr?page=8" class="relative inline-flex items-center px-4 py-2 ml-3 text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150">
+                    Next &raquo;
+                </a>
+                    </div>
+
+        <div class="hidden sm:flex-1 sm:flex sm:items-center sm:justify-between">
+            <div>
+                <p class="text-sm text-gray-700 leading-5">
+                    Showing
+                                            <span class="font-medium">55</span>
+                        to
+                        <span class="font-medium">63</span>
+                                        of
+                    <span class="font-medium">95</span>
+                    results
+                </p>
+            </div>
+
+            <div>
+                <span class="relative z-0 inline-flex shadow-sm rounded-md">
+                    
+                                            <a href="hr?page=6" rel="prev" class="relative inline-flex items-center px-2 py-2 text-sm font-medium text-gray-500 bg-white border border-gray-300 rounded-l-md leading-5 hover:text-gray-400 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-500 transition ease-in-out duration-150" aria-label="&amp;laquo; Previous">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg>
+                        </a>
+                    
+                    
+                                            
+                        
+                        
+                                                                                                                        <a href="hr?page=1" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 1">
+                                        1
+                                    </a>
+                                                                                                                                <a href="hr?page=2" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 2">
+                                        2
+                                    </a>
+                                                                                                                                <a href="hr?page=3" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 3">
+                                        3
+                                    </a>
+                                                                                                                                <a href="hr?page=4" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 4">
+                                        4
+                                    </a>
+                                                                                                                                <a href="hr?page=5" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 5">
+                                        5
+                                    </a>
+                                                                                                                                <a href="hr?page=6" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 6">
+                                        6
+                                    </a>
+                                                                                                                                <span aria-current="page">
+                                        <span class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-500 bg-white border border-gray-300 cursor-default leading-5">7</span>
+                                    </span>
+                                                                                                                                <a href="hr?page=8" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 8">
+                                        8
+                                    </a>
+                                                                                                                                <a href="hr?page=9" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 9">
+                                        9
+                                    </a>
+                                                                                                                                <a href="hr?page=10" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 10">
+                                        10
+                                    </a>
+                                                                                                                                <a href="hr?page=11" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-500 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 11">
+                                        11
+                                    </a>
+                                                                                                        
+                    
+                                            <a href="hr?page=8" rel="next" class="relative inline-flex items-center px-2 py-2 -ml-px text-sm font-medium text-gray-500 bg-white border border-gray-300 rounded-r-md leading-5 hover:text-gray-400 focus:z-10 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-500 transition ease-in-out duration-150" aria-label="Next &amp;raquo;">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+                            </svg>
+                        </a>
+                                    </span>
+            </div>
+        </div>
+    </nav>
+
+        </div>
+            </div>
+        </div>
+        <!--End Blog Area-->
+
+
+        <!--Start Footer Area-->
+ <div class="start-footer-area pt-100 pb-70">
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-logo-area">
+                     <a href="../index.html"><img src="../public/assets/images/white-kc-logo.png"
+                             alt="Logo"></a>
+                     <p>Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.</p>
+                     <div class="social-content">
+                         <ul>
+                             <li>
+                                 <span>Follow Us</span>
+                             </li>
+                             <li>
+                                 <a href="https://www.facebook.com/kutumbhhrcareofficial/" target="_blank"><i class="ri-facebook-line"></i></a>
+                             </li>							 
+                             <li>
+                                 <a href="https://www.linkedin.com/company/kutumbh-hrcare-private-limited/" target="_blank"><i
+                                         class="ri-linkedin-line"></i></a>
+                             </li>							 							  <li>                                 <a href="https://twitter.com/Kutumbhhrcare_" target="_blank"><i                                         class="ri-twitter-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.youtube.com/@kutumbhhrcare1265/videos" target="_blank"><i                                         class="ri-youtube-line"></i></a>                             </li>							 							 <li>                                 <a href="https://www.instagram.com/kutumbhhrcare_/" target="_blank"><i                                         class="ri-instagram-line"></i></a>                             </li>
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Useful Links</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../about">About Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../contact-us">Contact Us</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="https://www.kutumbhhrcare.com/blog">News & Blog</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../awards-and-recognition">Awards & Recognition</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="events">Events</a>
+                             </li>
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+			  <div class="col-lg-2 col-sm-6">
+                 <div class="single-footer-widget footer-useful-links-area">
+                     <h3>Our Presence</h3>
+                     <div class="link-list">
+                         <ul>
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-delhi">Delhi</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-noida">Noida</a>
+                             </li>
+
+                             <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-bangalore">Bangalore</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-chennai">Chennai</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-mumbai">Mumbai</a>
+                             </li>
+							 
+							  <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../staffing-company-hyderabad">Hyderabad</a>
+                             </li>
+							 
+							 <li>
+                                 <i class="ri-arrow-right-s-line"></i>
+                                 <a href="../locations">View More..</a>
+                             </li> 
+
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-4 col-sm-6">
+                 <div class="single-footer-widget footer-address-area">
+                     <h3>Address Information</h3>
+                     <ul>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-phone-call-1"></i>
+                             </div>
+                             <p>Call Us Now</p>
+                             <a href="tel:+919958148484">+919958148484</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-mail"></i>
+                             </div>
+                             <p>Email Address</p>
+                             <a href="mailto:info@kutumbhhrcare.com">info@kutumbhhrcare.com</a>
+                         </li>
+                         <li>
+                             <div class="icon">
+                                 <i class="flaticon-place"></i>
+                             </div>
+                             <p>Head Office</p>
+                             <span>B-154, B Block, Sector 63, Noida,<br> Uttar Pradesh-201301 </span>
+                         </li>
+                     </ul>
+                 </div>
+             </div>
+
+
+         </div>
+     </div>
+ </div>
+ <!--End Footer Area-->
+
+ <!--Start Copy Right Area-->
+ <div class="copy-right-area">
+     <div class="container">
+         <p>2024 &copy; All Rights Reserved by Kutumbh HRCare Private Limited
+            <br>
+            CIN: U74900DL2018PTC334097
+         </p>
+     </div>
+ </div>
+ <!--End Copy Right Area-->
+
+ <!-- Start Go Top Area -->
+ <div class="go-top">
+     <i class="ri-rocket-line"></i>
+     <i class="ri-rocket-line"></i>
+ </div>
+ <!-- End Go Top Area -->
+
+
+ <!-- Jquery js -->
+ <script data-cfasync="false" src="https://www.kutumbhhrcare.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+ <script src="../public/assets/js/jquery.min.js"></script>
+ <!-- Bootstrap bundle js -->
+ <script src="../public/assets/js/bootstrap.bundle.min.js"></script>
+ <!-- Meanmenu js -->
+ <script src="../public/assets/js/jquery.meanmenu.js"></script>
+ <!-- Owl Carosel js -->
+ <script src="../public/assets/js/owl.carousel.min.js"></script>
+ <!-- Magnific popup js -->
+ <script src="../public/assets/js/jquery.magnific-popup.js"></script>
+ <!-- Aos js -->
+ <script src="../public/assets/js/aos.js"></script>
+ <!-- Mixitup js -->
+ <script src="../public/assets/js/mixitup.min.js"></script>
+ <!-- Odometer js -->
+ <script src="../public/assets/js/odometer.min.js"></script>
+ <!-- Appear js -->
+ <script src="../public/assets/js/appear.min.js"></script>
+ <!-- Form Validator js -->
+ <script src="../public/assets/js/form-validator.min.js"></script>
+ <!-- Contact Form Script js -->
+ <script src="../public/assets/js/contact-form-script.js"></script>
+ <!-- Ajaxchimp js -->
+ <script src="../public/assets/js/ajaxchimp.min.js"></script>
+ <!--Custom js-->
+ <script src="../public/assets/js/custom.js"></script>
+ 
+ <script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "LocalBusiness",
+"image": [
+    "https://www.kutumbhhrcare.com/public/assets/images/white-logo.png"],
+    
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Noida",
+"addressRegion": "India",
+"postalCode":"201301",
+"streetAddress": "Kutumbh Care Pvt Ltd, B154, B Block, Sector - 63"
+},
+"description": "Kutumbh HRCare is a manpower solution enterprise serving fortune 500 Clients.",
+"name": "Kutumbh HRCare",
+"telephone": "+919958148484",
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "28.6149744",
+"longitude": "77.3764202"
+},
+"sameAs" : [ "https://www.facebook.com/kutumbhhrcareofficial/",
+"https://www.linkedin.com/company/kutumbh-hrcare-private-limited/",
+"https://twitter.com/Kutumbhhrcare_",
+"https://www.youtube.com/@kutumbhhrcare1265/videos",
+"https://www.instagram.com/kutumbhhrcare_/"]
+}
+</script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "7222665";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=7222665&fmt=gif" />
+</noscript>
+ 
+ </body>
+ </html>
